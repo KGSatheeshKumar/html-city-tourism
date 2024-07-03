@@ -278,5 +278,5 @@
 
 ## Result :
 
-Thus using html 
+Thus,Creating a website for college was executed successfully. 
 
