@@ -79,6 +79,9 @@
 
 ![out-ex01](https://github.com/KGSatheeshKumar/html-city-tourism/assets/128453421/97876ca7-b66c-4e57-a6b7-23e3e243e49b)
 
+## Result :
+Thus,Creating a website for morning activities was executed successfully.
+
 
 ## Ex-02
 
